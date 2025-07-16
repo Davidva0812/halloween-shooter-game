@@ -40,6 +40,11 @@ Killing Jack grants **30 points**, all others give **10 points**.
 - **Python 3.x**
 - **Pygame**
 
+## **Screenshots**
+![screenshot](screenshots/menu.png)
+![screenshot](screenshots/main.png)
+![screenshot](screenshots/game_over.png)
+
 ## 📦 Install dependencies:
 
 ```bash

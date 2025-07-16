@@ -70,7 +70,7 @@ def spawn_enemy():
     elif enemy_type == "Wraith":
         opponent = Enemy("Wraith", wraith_surf, x_pos, -50, 2, 3.5)
     elif enemy_type == "Jack":
-        opponent = Enemy("Jack", jack_surf, x_pos, -50, 4, 3.5)
+        opponent = Enemy("Jack", jack_surf, x_pos, -50, 4, 3)
 
     all_sprites.add(opponent)
     enemies.add(opponent)
